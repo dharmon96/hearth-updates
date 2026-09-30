@@ -1,0 +1,13 @@
+{
+  "app": "hearth",
+  "channel": "friends",
+  "versionCode": 33,
+  "versionName": "1.1.33",
+  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.33/hearth-friends-1.1.33.tgz",
+  "sha256": "b9738df534b9d9b08016d308a1bc21163f2eeac1f3e5b0c97242f80605448793",
+  "size": 7216048,
+  "lockHash": "1268810c0105d9ba0693021cf8e3da80de4ae5ebc357c1eecbf3ddfb0c847ec1",
+  "publishedAt": "2026-09-30T09:04:50.836Z",
+  "notes": "First release with automatic updates: this copy now keeps itself up to date, and offers its owner 'Update now' when an update is waiting.",
+  "signature": "BLPcxzzkpWjbrrcNcjrI5ymcGOF+hj3FUgKGv3KNbo01NtkT7aQ4Hso9q6zK5BiS0hYEBxSVLMc3Lf2yY7JkBw=="
+}
