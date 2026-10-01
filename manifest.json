@@ -1,13 +1,13 @@
 {
   "app": "hearth",
   "channel": "friends",
-  "versionCode": 37,
-  "versionName": "1.1.37",
-  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.37/hearth-friends-1.1.37.tgz",
-  "sha256": "076e1fc813e41d7913b4d35651e24a8e286bee4cd8fbcc4f2cd5ca024c586753",
-  "size": 7219767,
+  "versionCode": 38,
+  "versionName": "1.1.38",
+  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.38/hearth-friends-1.1.38.tgz",
+  "sha256": "a8e2235f80f187c92c7da0ccc5a6e108b21827279e13b7de5cadde547c604768",
+  "size": 7220530,
   "lockHash": "1268810c0105d9ba0693021cf8e3da80de4ae5ebc357c1eecbf3ddfb0c847ec1",
-  "publishedAt": "2026-09-30T09:41:51.098Z",
-  "notes": "Home greets you with a new line every day (season, weather, fun, trivia from what you watch), the Hearth logo flickers like a real flame, seasons swap in their own art for the logo, and turning the seasonal look off animates.",
-  "signature": "TEJxHAXR+pRpY0yxyGMIXAqKmRfx/0sNcESvF/7QmQBr9ZRp0B6E0BVYt9Nkg0oSga7pGfOcrKuPqm6EnQ3nAQ=="
+  "publishedAt": "2026-10-01T01:51:48.680Z",
+  "notes": "Fixes 'Wrong IP' with ElfHosted/Comet streams (they now always play through this server), switches away from sources that send an error clip instead of the episode, and reports problems automatically.",
+  "signature": "9jDc3b4r+ySJscGURcT8eom4z9fVUnFS8/fpVxjgnCC8X2l5QvdOfQf64lkYWmg2YgpC//Byq8Gk8biswGtMCg=="
 }
