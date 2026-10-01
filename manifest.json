@@ -1,13 +1,13 @@
 {
   "app": "hearth",
   "channel": "friends",
-  "versionCode": 40,
-  "versionName": "1.1.40",
-  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.40/hearth-friends-1.1.40.tgz",
-  "sha256": "89ec2bd9792b104adc1eadead245983f09a27f8164812d9a6cbcb98f3572ff18",
-  "size": 7231514,
+  "versionCode": 41,
+  "versionName": "1.1.41",
+  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.41/hearth-friends-1.1.41.tgz",
+  "sha256": "2c394370b63620c3b0dfaeab2488be0c6f6db23f65d57024a09869765d9d9d57",
+  "size": 7243859,
   "lockHash": "1268810c0105d9ba0693021cf8e3da80de4ae5ebc357c1eecbf3ddfb0c847ec1",
-  "publishedAt": "2026-10-01T02:59:27.306Z",
-  "notes": "Built-in search keyboard on the TV, an option to try addons in your chosen order (e.g. Torrentio before Comet), and addons that keep failing are now tried last.",
-  "signature": "MHsICQcoHjtnryC/t41/YpcV4+FI/G0Aiu5mJsW4hHcqWFqNFeMHdGcDpNmFYF4HdzOaBONkYallWei2LDv6CA=="
+  "publishedAt": "2026-10-01T21:26:21.886Z",
+  "notes": "Smoother seeking and resuming (reconnects to the same copy before switching), saved episodes are checked so a source's error video is never kept, error reports ask before sending (with an auto-send option in the dashboard), TV: clearer icons with names on focus, a Binge-ready button on show pages, and 'Choose another version' while a stream is slow to start.",
+  "signature": "3pVNzGVVwsGlaiKIsaA5QHhhfoEKR+CmFrnZxzOHtiJapondr1Tuuy8YIsyR06Vkt2lNIdvdWtk1nH5G56lGDQ=="
 }
