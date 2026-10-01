@@ -1,13 +1,13 @@
 {
   "app": "hearth",
   "channel": "friends",
-  "versionCode": 38,
-  "versionName": "1.1.38",
-  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.38/hearth-friends-1.1.38.tgz",
-  "sha256": "a8e2235f80f187c92c7da0ccc5a6e108b21827279e13b7de5cadde547c604768",
-  "size": 7220530,
+  "versionCode": 39,
+  "versionName": "1.1.39",
+  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.39/hearth-friends-1.1.39.tgz",
+  "sha256": "d35d146422603b079ca2f639dba332ce16c1a5fa696b01443916278fbacf5ebf",
+  "size": 7227020,
   "lockHash": "1268810c0105d9ba0693021cf8e3da80de4ae5ebc357c1eecbf3ddfb0c847ec1",
-  "publishedAt": "2026-10-01T01:51:48.680Z",
-  "notes": "Fixes 'Wrong IP' with ElfHosted/Comet streams (they now always play through this server), switches away from sources that send an error clip instead of the episode, and reports problems automatically.",
-  "signature": "9jDc3b4r+ySJscGURcT8eom4z9fVUnFS8/fpVxjgnCC8X2l5QvdOfQf64lkYWmg2YgpC//Byq8Gk8biswGtMCg=="
+  "publishedAt": "2026-10-01T01:58:28.879Z",
+  "notes": "Tells the owner when an update is ready, even mid-film (it waits until you're done watching), and adds Check for updates to TV Settings and the dashboard.",
+  "signature": "Z7+ABrljvpuEHCaahzkiXSOTjul3d3/9PkWQTr01VHW7tCzvltczVzmoIGnoyeheOvKEaIs8kcgls2cE43wKAw=="
 }
