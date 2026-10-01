@@ -1,13 +1,13 @@
 {
   "app": "hearth",
   "channel": "friends",
-  "versionCode": 41,
-  "versionName": "1.1.41",
-  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.41/hearth-friends-1.1.41.tgz",
-  "sha256": "2c394370b63620c3b0dfaeab2488be0c6f6db23f65d57024a09869765d9d9d57",
-  "size": 7243859,
+  "versionCode": 42,
+  "versionName": "1.1.42",
+  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.42/hearth-friends-1.1.42.tgz",
+  "sha256": "5cb3dab3af9fd8ca0ffdae9e0309347b777279813005c9137bac42fb44808c75",
+  "size": 7245096,
   "lockHash": "1268810c0105d9ba0693021cf8e3da80de4ae5ebc357c1eecbf3ddfb0c847ec1",
-  "publishedAt": "2026-10-01T21:26:21.886Z",
-  "notes": "Smoother seeking and resuming (reconnects to the same copy before switching), saved episodes are checked so a source's error video is never kept, error reports ask before sending (with an auto-send option in the dashboard), TV: clearer icons with names on focus, a Binge-ready button on show pages, and 'Choose another version' while a stream is slow to start.",
-  "signature": "3pVNzGVVwsGlaiKIsaA5QHhhfoEKR+CmFrnZxzOHtiJapondr1Tuuy8YIsyR06Vkt2lNIdvdWtk1nH5G56lGDQ=="
+  "publishedAt": "2026-10-01T21:53:59.520Z",
+  "notes": "Phones get a 1080p version of 4K films and shows (faster starts and seeks; switches to the original by itself if the server can't keep up), and TVs load further ahead, sized to each TV's memory.",
+  "signature": "sApE8RQ0o19hOBcqEcrevtNS1Zxtn6YMZ9JkFHhMNuKzqhpxeygm8I5JwWvHwydPbHE737mTBoIhlCVPDYb2Ag=="
 }
