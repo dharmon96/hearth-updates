@@ -1,13 +1,13 @@
 {
   "app": "hearth",
   "channel": "friends",
-  "versionCode": 39,
-  "versionName": "1.1.39",
-  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.39/hearth-friends-1.1.39.tgz",
-  "sha256": "d35d146422603b079ca2f639dba332ce16c1a5fa696b01443916278fbacf5ebf",
-  "size": 7227020,
+  "versionCode": 40,
+  "versionName": "1.1.40",
+  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.40/hearth-friends-1.1.40.tgz",
+  "sha256": "89ec2bd9792b104adc1eadead245983f09a27f8164812d9a6cbcb98f3572ff18",
+  "size": 7231514,
   "lockHash": "1268810c0105d9ba0693021cf8e3da80de4ae5ebc357c1eecbf3ddfb0c847ec1",
-  "publishedAt": "2026-10-01T01:58:28.879Z",
-  "notes": "Tells the owner when an update is ready, even mid-film (it waits until you're done watching), and adds Check for updates to TV Settings and the dashboard.",
-  "signature": "Z7+ABrljvpuEHCaahzkiXSOTjul3d3/9PkWQTr01VHW7tCzvltczVzmoIGnoyeheOvKEaIs8kcgls2cE43wKAw=="
+  "publishedAt": "2026-10-01T02:59:27.306Z",
+  "notes": "Built-in search keyboard on the TV, an option to try addons in your chosen order (e.g. Torrentio before Comet), and addons that keep failing are now tried last.",
+  "signature": "MHsICQcoHjtnryC/t41/YpcV4+FI/G0Aiu5mJsW4hHcqWFqNFeMHdGcDpNmFYF4HdzOaBONkYallWei2LDv6CA=="
 }
