@@ -1,13 +1,13 @@
 {
   "app": "hearth",
   "channel": "friends",
-  "versionCode": 43,
-  "versionName": "1.1.43",
-  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.43/hearth-friends-1.1.43.tgz",
-  "sha256": "7ae3b5d46ec1ec0a4ea65ae34accc885e052c4f9440f5f39b7377d1da59a0567",
-  "size": 7246604,
+  "versionCode": 44,
+  "versionName": "1.1.44",
+  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.44/hearth-friends-1.1.44.tgz",
+  "sha256": "c72b35287bb82ebc0c61bcad501ccd3d5e04defb0c03d01a00a99ea94a91752d",
+  "size": 7246251,
   "lockHash": "1268810c0105d9ba0693021cf8e3da80de4ae5ebc357c1eecbf3ddfb0c847ec1",
-  "publishedAt": "2026-10-02T03:30:33.331Z",
-  "notes": "Mini player on the web: leave the player and what you're watching keeps playing in a corner while you browse (tap it for full screen).",
-  "signature": "7jo0uStUHXH4uJ7GR77xc+R6xleP2CNh4LirTwqIz/sVAoab8BPA2uSrDUWMq1W5dCJ8Eg0+kKQBV4TQ6eX7Bw=="
+  "publishedAt": "2026-10-02T12:55:59.217Z",
+  "notes": "TV: no more falling asleep during playback (it could from the second episode of a binge), and requests are no longer sent twice.",
+  "signature": "jfMTxmXjmYPeA/OlKhnYKdTqDNfXWYEoQHNT/1lWYIdpFaaXTs5/2bFlj3jROU/1XRzIIkpRHLGlWHtL7RZxBQ=="
 }
