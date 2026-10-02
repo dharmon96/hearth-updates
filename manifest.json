@@ -1,13 +1,13 @@
 {
   "app": "hearth",
   "channel": "friends",
-  "versionCode": 42,
-  "versionName": "1.1.42",
-  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.42/hearth-friends-1.1.42.tgz",
-  "sha256": "5cb3dab3af9fd8ca0ffdae9e0309347b777279813005c9137bac42fb44808c75",
-  "size": 7245096,
+  "versionCode": 43,
+  "versionName": "1.1.43",
+  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.43/hearth-friends-1.1.43.tgz",
+  "sha256": "7ae3b5d46ec1ec0a4ea65ae34accc885e052c4f9440f5f39b7377d1da59a0567",
+  "size": 7246604,
   "lockHash": "1268810c0105d9ba0693021cf8e3da80de4ae5ebc357c1eecbf3ddfb0c847ec1",
-  "publishedAt": "2026-10-01T21:53:59.520Z",
-  "notes": "Phones get a 1080p version of 4K films and shows (faster starts and seeks; switches to the original by itself if the server can't keep up), and TVs load further ahead, sized to each TV's memory.",
-  "signature": "sApE8RQ0o19hOBcqEcrevtNS1Zxtn6YMZ9JkFHhMNuKzqhpxeygm8I5JwWvHwydPbHE737mTBoIhlCVPDYb2Ag=="
+  "publishedAt": "2026-10-02T03:30:33.331Z",
+  "notes": "Mini player on the web: leave the player and what you're watching keeps playing in a corner while you browse (tap it for full screen).",
+  "signature": "7jo0uStUHXH4uJ7GR77xc+R6xleP2CNh4LirTwqIz/sVAoab8BPA2uSrDUWMq1W5dCJ8Eg0+kKQBV4TQ6eX7Bw=="
 }
