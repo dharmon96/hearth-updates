@@ -1,13 +1,13 @@
 {
   "app": "hearth",
   "channel": "friends",
-  "versionCode": 44,
-  "versionName": "1.1.44",
-  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.44/hearth-friends-1.1.44.tgz",
-  "sha256": "c72b35287bb82ebc0c61bcad501ccd3d5e04defb0c03d01a00a99ea94a91752d",
-  "size": 7246251,
+  "versionCode": 45,
+  "versionName": "1.1.45",
+  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.45/hearth-friends-1.1.45.tgz",
+  "sha256": "cd80ea495c8b989ebc8f58f3e76d06f9f153fb6c0be82787aaefba5b575405aa",
+  "size": 7252862,
   "lockHash": "1268810c0105d9ba0693021cf8e3da80de4ae5ebc357c1eecbf3ddfb0c847ec1",
-  "publishedAt": "2026-10-02T12:55:59.217Z",
-  "notes": "TV: no more falling asleep during playback (it could from the second episode of a binge), and requests are no longer sent twice.",
-  "signature": "jfMTxmXjmYPeA/OlKhnYKdTqDNfXWYEoQHNT/1lWYIdpFaaXTs5/2bFlj3jROU/1XRzIIkpRHLGlWHtL7RZxBQ=="
+  "publishedAt": "2026-10-07T02:16:15.043Z",
+  "notes": "TV: pick another episode from the player (Episodes panel fixed), smoother and more responsive navigation on Fire TV sticks.",
+  "signature": "WI8smDLVPGmWQqMWnIBQvgC0ac/VDIEBFPW83eeqzcFfqMHpXymkuouTqT3Q4kSMJzlNg6v57u8Odsa4Kk4ZCw=="
 }
