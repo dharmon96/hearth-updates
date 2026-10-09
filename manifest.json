@@ -1,13 +1,13 @@
 {
   "app": "hearth",
   "channel": "friends",
-  "versionCode": 46,
-  "versionName": "1.1.46",
-  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.46/hearth-friends-1.1.46.tgz",
-  "sha256": "2c335d8f55a5d2070814bbb5e15cef8465936e61d1a97f1cd355d8538be371b0",
-  "size": 7254066,
+  "versionCode": 47,
+  "versionName": "1.1.47",
+  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.47/hearth-friends-1.1.47.tgz",
+  "sha256": "6042cdfe0e8391f68bad1a1b4af5737331e5beb8018972a2707166c220a40a50",
+  "size": 12657851,
   "lockHash": "1268810c0105d9ba0693021cf8e3da80de4ae5ebc357c1eecbf3ddfb0c847ec1",
-  "publishedAt": "2026-10-09T00:19:29.523Z",
-  "notes": "Much faster jumping around in converted streams (browser playback of 4K films); TV jumps land on the nearest keyframe so they start at once.",
-  "signature": "JTFGxGjvT/g4aYebezrPufeD+cV8dYoWjq9mZAUr0dO0k0Sg716519urap7j+X2E9fDMJ1oe6ABjyCIvD+KBDQ=="
+  "publishedAt": "2026-10-09T00:50:56.628Z",
+  "notes": "New: Hearth for Android phones (at /phone on your server) - watch anywhere and download films and episodes to watch offline on a plane. Faster jumping around in browser playback.",
+  "signature": "S4kCa9VRGKoNUMfAbuTf96reT7muWe1nUJLZAdRzXqR2b6uLNlJ58jkECD0pYpCOqeHL2ZMdB0a/S3XHfaA7Dw=="
 }
