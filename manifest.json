@@ -1,13 +1,13 @@
 {
   "app": "hearth",
   "channel": "friends",
-  "versionCode": 45,
-  "versionName": "1.1.45",
-  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.45/hearth-friends-1.1.45.tgz",
-  "sha256": "cd80ea495c8b989ebc8f58f3e76d06f9f153fb6c0be82787aaefba5b575405aa",
-  "size": 7252862,
+  "versionCode": 46,
+  "versionName": "1.1.46",
+  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.46/hearth-friends-1.1.46.tgz",
+  "sha256": "2c335d8f55a5d2070814bbb5e15cef8465936e61d1a97f1cd355d8538be371b0",
+  "size": 7254066,
   "lockHash": "1268810c0105d9ba0693021cf8e3da80de4ae5ebc357c1eecbf3ddfb0c847ec1",
-  "publishedAt": "2026-10-07T02:16:15.043Z",
-  "notes": "TV: pick another episode from the player (Episodes panel fixed), smoother and more responsive navigation on Fire TV sticks.",
-  "signature": "WI8smDLVPGmWQqMWnIBQvgC0ac/VDIEBFPW83eeqzcFfqMHpXymkuouTqT3Q4kSMJzlNg6v57u8Odsa4Kk4ZCw=="
+  "publishedAt": "2026-10-09T00:19:29.523Z",
+  "notes": "Much faster jumping around in converted streams (browser playback of 4K films); TV jumps land on the nearest keyframe so they start at once.",
+  "signature": "JTFGxGjvT/g4aYebezrPufeD+cV8dYoWjq9mZAUr0dO0k0Sg716519urap7j+X2E9fDMJ1oe6ABjyCIvD+KBDQ=="
 }
