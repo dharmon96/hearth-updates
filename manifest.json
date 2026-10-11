@@ -1,13 +1,13 @@
 {
   "app": "hearth",
   "channel": "friends",
-  "versionCode": 48,
-  "versionName": "1.1.48",
-  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.48/hearth-friends-1.1.48.tgz",
-  "sha256": "59a4381ecc5587015cebc0084fb90b1aa868dab4fce7d865484edff1e3b38fc5",
-  "size": 12657099,
+  "versionCode": 49,
+  "versionName": "1.1.49",
+  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.49/hearth-friends-1.1.49.tgz",
+  "sha256": "8aeb126f3c7c431b33c268f2fcac5c91fcecbdd25109718d9ba8964c4a6dab32",
+  "size": 12713139,
   "lockHash": "1268810c0105d9ba0693021cf8e3da80de4ae5ebc357c1eecbf3ddfb0c847ec1",
-  "publishedAt": "2026-10-11T01:41:35.731Z",
-  "notes": "Fix: after jumping around or changing sources in browser playback, audio, picture and subtitles stay in sync.",
-  "signature": "el0Nl2dfSmyY8DZA98VJTaZE0uU+C1+u0JpWrtwMWYHBA6zTGTxdOaXsNRKO0w/aoKVGvyqg3F8ZvZMZG7dCDA=="
+  "publishedAt": "2026-10-11T03:20:07.897Z",
+  "notes": "Security and reliability update from a full audit: safer remote access and pairing, kids limits everywhere, fixes for sync after jumps, subtitles on converted streams, error-video replacement, and phone downloads (wait for Wi-Fi, resume safely).",
+  "signature": "yz6ZLH0e1F5Hgs2gptRHSeUAI5X3WULRzQMLppwSaUt4OYSIgQm9V0RkDvC6TThXPa7/l0kqdPu1dWAEeHfYBQ=="
 }
