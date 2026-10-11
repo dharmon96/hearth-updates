@@ -1,13 +1,13 @@
 {
   "app": "hearth",
   "channel": "friends",
-  "versionCode": 47,
-  "versionName": "1.1.47",
-  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.47/hearth-friends-1.1.47.tgz",
-  "sha256": "6042cdfe0e8391f68bad1a1b4af5737331e5beb8018972a2707166c220a40a50",
-  "size": 12657851,
+  "versionCode": 48,
+  "versionName": "1.1.48",
+  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.48/hearth-friends-1.1.48.tgz",
+  "sha256": "59a4381ecc5587015cebc0084fb90b1aa868dab4fce7d865484edff1e3b38fc5",
+  "size": 12657099,
   "lockHash": "1268810c0105d9ba0693021cf8e3da80de4ae5ebc357c1eecbf3ddfb0c847ec1",
-  "publishedAt": "2026-10-09T00:50:56.628Z",
-  "notes": "New: Hearth for Android phones (at /phone on your server) - watch anywhere and download films and episodes to watch offline on a plane. Faster jumping around in browser playback.",
-  "signature": "S4kCa9VRGKoNUMfAbuTf96reT7muWe1nUJLZAdRzXqR2b6uLNlJ58jkECD0pYpCOqeHL2ZMdB0a/S3XHfaA7Dw=="
+  "publishedAt": "2026-10-11T01:41:35.731Z",
+  "notes": "Fix: after jumping around or changing sources in browser playback, audio, picture and subtitles stay in sync.",
+  "signature": "el0Nl2dfSmyY8DZA98VJTaZE0uU+C1+u0JpWrtwMWYHBA6zTGTxdOaXsNRKO0w/aoKVGvyqg3F8ZvZMZG7dCDA=="
 }
