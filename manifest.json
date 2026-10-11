@@ -1,13 +1,13 @@
 {
   "app": "hearth",
   "channel": "friends",
-  "versionCode": 49,
-  "versionName": "1.1.49",
-  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.49/hearth-friends-1.1.49.tgz",
-  "sha256": "8aeb126f3c7c431b33c268f2fcac5c91fcecbdd25109718d9ba8964c4a6dab32",
-  "size": 12713139,
+  "versionCode": 50,
+  "versionName": "1.1.50",
+  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.50/hearth-friends-1.1.50.tgz",
+  "sha256": "3653eb8f36094a2f7f8e7324698131b0fdaa552a608ebbb7afc55335f10dace6",
+  "size": 12711388,
   "lockHash": "1268810c0105d9ba0693021cf8e3da80de4ae5ebc357c1eecbf3ddfb0c847ec1",
-  "publishedAt": "2026-10-11T03:20:07.897Z",
-  "notes": "Security and reliability update from a full audit: safer remote access and pairing, kids limits everywhere, fixes for sync after jumps, subtitles on converted streams, error-video replacement, and phone downloads (wait for Wi-Fi, resume safely).",
-  "signature": "yz6ZLH0e1F5Hgs2gptRHSeUAI5X3WULRzQMLppwSaUt4OYSIgQm9V0RkDvC6TThXPa7/l0kqdPu1dWAEeHfYBQ=="
+  "publishedAt": "2026-10-11T03:51:33.215Z",
+  "notes": "TV: the controls that appear when an episode starts respond to the remote right away.",
+  "signature": "Vi9TkU6SYdeJdud5DyWVLljx/7oVVH4TWeIUcd93ndESVisThupZJy2qJV4JT3l+3apLbPql/+EH8Ihj2XSfAQ=="
 }
