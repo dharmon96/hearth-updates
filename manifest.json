@@ -1,13 +1,13 @@
 {
   "app": "hearth",
   "channel": "friends",
-  "versionCode": 51,
-  "versionName": "1.1.51",
-  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.51/hearth-friends-1.1.51.tgz",
-  "sha256": "46990bed716e1fb0809a0609c65ab5be1d2dbff829c039055e5b20210f6c281b",
-  "size": 12711854,
+  "versionCode": 52,
+  "versionName": "1.1.52",
+  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.52/hearth-friends-1.1.52.tgz",
+  "sha256": "7ad8538e2341efeb38de720973bb7531f151921d1e1b19e398811649f8d52fa1",
+  "size": 12730169,
   "lockHash": "1268810c0105d9ba0693021cf8e3da80de4ae5ebc357c1eecbf3ddfb0c847ec1",
-  "publishedAt": "2026-10-11T04:20:32.031Z",
-  "notes": "Two-part episodes (like The Office's Christmas specials) no longer play the wrong part; subtitles that don't match a video are listed last.",
-  "signature": "b49/EMey3gssM4/ToJ2qAEnwtgjz1swS79QSdhr+uZH4TNHsp0bA2duSbawjGs6GkQTgFRZRCN1P5XgUjO00Dg=="
+  "publishedAt": "2026-10-28T05:42:56.247Z",
+  "notes": "TV: films load ahead onto the TV's storage (a whole episode, minutes of a 4K film), keep topping up, and jumps into what's loaded play at once.",
+  "signature": "vG1xXjMIRB6OnUDh7ILjYTgLywQgID/qJ3APDYDZt0M/WKgJ2/UpWlwwYlfQ/z++tZfqm8J3L42RKvvfhhJkCQ=="
 }
