@@ -1,13 +1,13 @@
 {
   "app": "hearth",
   "channel": "friends",
-  "versionCode": 52,
-  "versionName": "1.1.52",
-  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.52/hearth-friends-1.1.52.tgz",
-  "sha256": "7ad8538e2341efeb38de720973bb7531f151921d1e1b19e398811649f8d52fa1",
-  "size": 12730169,
+  "versionCode": 53,
+  "versionName": "1.1.53",
+  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.53/hearth-friends-1.1.53.tgz",
+  "sha256": "82fb6b9428cf2d3267e330f59d76ad45af1e8c3538037d5cb1207f1ed093068a",
+  "size": 12760854,
   "lockHash": "1268810c0105d9ba0693021cf8e3da80de4ae5ebc357c1eecbf3ddfb0c847ec1",
-  "publishedAt": "2026-10-28T05:42:56.247Z",
-  "notes": "TV: films load ahead onto the TV's storage (a whole episode, minutes of a 4K film), keep topping up, and jumps into what's loaded play at once.",
-  "signature": "vG1xXjMIRB6OnUDh7ILjYTgLywQgID/qJ3APDYDZt0M/WKgJ2/UpWlwwYlfQ/z++tZfqm8J3L42RKvvfhhJkCQ=="
+  "publishedAt": "2026-10-28T07:09:33.643Z",
+  "notes": "Keep watching in a corner window on TV, phone-sized downloads, surround sound in browsers, iPhone playback, nightly backups and a library health check.",
+  "signature": "+L6Z5mZ7DU/tuH9sM5f3p+3nsf4uBlSWw6mRzHARZMft2Kn9WTQhUWQFAbFTSYgPgcUrDm9CfYCuZ6b/AHOYBw=="
 }
