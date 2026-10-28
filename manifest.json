@@ -1,13 +1,13 @@
 {
   "app": "hearth",
   "channel": "friends",
-  "versionCode": 54,
-  "versionName": "1.1.54",
-  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.54/hearth-friends-1.1.54.tgz",
-  "sha256": "382b571166920e742b4845b18787c7bfdac8f109130cf1a5ccf6b8aa78e3fd57",
-  "size": 12762566,
+  "versionCode": 55,
+  "versionName": "1.1.55",
+  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.55/hearth-friends-1.1.55.tgz",
+  "sha256": "e24b32ffdcc834cbccb3c33e929a6c3ab8bd434953e5234d755a0208b1962c83",
+  "size": 12766655,
   "lockHash": "1268810c0105d9ba0693021cf8e3da80de4ae5ebc357c1eecbf3ddfb0c847ec1",
-  "publishedAt": "2026-10-28T17:16:18.222Z",
-  "notes": "TV: a title left paused no longer keeps the TV awake all night (it may sleep after 30 minutes paused).",
-  "signature": "XxAN6WAGcGFHa9BdraYW4u7pxaBte7oFgCRnm8ivjNAUibR2HlhoMPiTWtkDxaouOfJDnCo1/xVOBLGV8mn3Bg=="
+  "publishedAt": "2026-10-28T21:22:10.082Z",
+  "notes": "Get the apps page (phone + TV app downloads in the profile menu). TV: a frozen picture reconnects by itself; slow jumps are noted in the server log.",
+  "signature": "JtVmVqp5QRvw0UxGvNEX3PNVtp+4N0gkjZOofrM5hPwJAbPSq3MHduT3rQ7ob+8ibW4ygnoIYDRvHYgJXjIZAQ=="
 }
