@@ -1,13 +1,13 @@
 {
   "app": "hearth",
   "channel": "friends",
-  "versionCode": 53,
-  "versionName": "1.1.53",
-  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.53/hearth-friends-1.1.53.tgz",
-  "sha256": "82fb6b9428cf2d3267e330f59d76ad45af1e8c3538037d5cb1207f1ed093068a",
-  "size": 12760854,
+  "versionCode": 54,
+  "versionName": "1.1.54",
+  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.54/hearth-friends-1.1.54.tgz",
+  "sha256": "382b571166920e742b4845b18787c7bfdac8f109130cf1a5ccf6b8aa78e3fd57",
+  "size": 12762566,
   "lockHash": "1268810c0105d9ba0693021cf8e3da80de4ae5ebc357c1eecbf3ddfb0c847ec1",
-  "publishedAt": "2026-10-28T07:09:33.643Z",
-  "notes": "Keep watching in a corner window on TV, phone-sized downloads, surround sound in browsers, iPhone playback, nightly backups and a library health check.",
-  "signature": "+L6Z5mZ7DU/tuH9sM5f3p+3nsf4uBlSWw6mRzHARZMft2Kn9WTQhUWQFAbFTSYgPgcUrDm9CfYCuZ6b/AHOYBw=="
+  "publishedAt": "2026-10-28T17:16:18.222Z",
+  "notes": "TV: a title left paused no longer keeps the TV awake all night (it may sleep after 30 minutes paused).",
+  "signature": "XxAN6WAGcGFHa9BdraYW4u7pxaBte7oFgCRnm8ivjNAUibR2HlhoMPiTWtkDxaouOfJDnCo1/xVOBLGV8mn3Bg=="
 }
