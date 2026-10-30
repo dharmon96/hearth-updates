@@ -1,13 +1,13 @@
 {
   "app": "hearth",
   "channel": "friends",
-  "versionCode": 56,
-  "versionName": "1.1.56",
-  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.56/hearth-friends-1.1.56.tgz",
-  "sha256": "fba78b0d575f1b51080efb79e48338f4f9d9c1714fc8584f61ce946656088a35",
-  "size": 12761599,
+  "versionCode": 57,
+  "versionName": "1.1.57",
+  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.57/hearth-friends-1.1.57.tgz",
+  "sha256": "26b3697ae3652769f15e8a2ff77b1893daf223661f5935f83beb67c92a47c201",
+  "size": 12792846,
   "lockHash": "1268810c0105d9ba0693021cf8e3da80de4ae5ebc357c1eecbf3ddfb0c847ec1",
-  "publishedAt": "2026-10-30T16:01:19.591Z",
-  "notes": "TV: long 4K films play through smoothly: the storage cache no longer throws away the part about to play, and loads from where the player really is.",
-  "signature": "kfXOH7Murl9O50UMJaNbj6zkW1TBvOWBEL71FFt0fOw/3ZKiTHzhTCWWhkXODkffvtc2IUsn9Kkqlgt+NqhAAw=="
+  "publishedAt": "2026-10-30T17:18:56.047Z",
+  "notes": "Full sweep: long 4K films keep loading ahead, playback recovers from dead connections, kids can't see grown-ups' phone downloads, safer backups/library/18+ handling, many TV and web fixes.",
+  "signature": "E6Zb83xwl5JsWhzwutyxwt54GSiiSROzycBxmlXkxjKjOvYX1n9GuhOAx0rVmp4zqtwcrrpxfZuBb/EFXfpDBw=="
 }
