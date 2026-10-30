@@ -1,13 +1,13 @@
 {
   "app": "hearth",
   "channel": "friends",
-  "versionCode": 57,
-  "versionName": "1.1.57",
-  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.57/hearth-friends-1.1.57.tgz",
-  "sha256": "26b3697ae3652769f15e8a2ff77b1893daf223661f5935f83beb67c92a47c201",
-  "size": 12792846,
+  "versionCode": 58,
+  "versionName": "1.1.58",
+  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.58/hearth-friends-1.1.58.tgz",
+  "sha256": "dddf820c56b57f25d0ce89d648b99669f1d5955b8d4173a25c238aa7a18f018f",
+  "size": 12792427,
   "lockHash": "1268810c0105d9ba0693021cf8e3da80de4ae5ebc357c1eecbf3ddfb0c847ec1",
-  "publishedAt": "2026-10-30T17:18:56.047Z",
-  "notes": "Full sweep: long 4K films keep loading ahead, playback recovers from dead connections, kids can't see grown-ups' phone downloads, safer backups/library/18+ handling, many TV and web fixes.",
-  "signature": "E6Zb83xwl5JsWhzwutyxwt54GSiiSROzycBxmlXkxjKjOvYX1n9GuhOAx0rVmp4zqtwcrrpxfZuBb/EFXfpDBw=="
+  "publishedAt": "2026-10-30T19:10:49.119Z",
+  "notes": "Security: the public address no longer counts as the home network (a reverse proxy that doesn't pass on visitors' addresses can't make internet visitors look local).",
+  "signature": "upjEMVG4oGTSSdMepKYiv1iuVjTajCgXFqwQPQKFmK1UtjKfuNH6uRyTncMnRvZrfddnTyx6OTFr6xytNSolCQ=="
 }
