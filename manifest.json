@@ -1,13 +1,13 @@
 {
   "app": "hearth",
   "channel": "friends",
-  "versionCode": 55,
-  "versionName": "1.1.55",
-  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.55/hearth-friends-1.1.55.tgz",
-  "sha256": "e24b32ffdcc834cbccb3c33e929a6c3ab8bd434953e5234d755a0208b1962c83",
-  "size": 12766655,
+  "versionCode": 56,
+  "versionName": "1.1.56",
+  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.56/hearth-friends-1.1.56.tgz",
+  "sha256": "fba78b0d575f1b51080efb79e48338f4f9d9c1714fc8584f61ce946656088a35",
+  "size": 12761599,
   "lockHash": "1268810c0105d9ba0693021cf8e3da80de4ae5ebc357c1eecbf3ddfb0c847ec1",
-  "publishedAt": "2026-10-28T21:22:10.082Z",
-  "notes": "Get the apps page (phone + TV app downloads in the profile menu). TV: a frozen picture reconnects by itself; slow jumps are noted in the server log.",
-  "signature": "JtVmVqp5QRvw0UxGvNEX3PNVtp+4N0gkjZOofrM5hPwJAbPSq3MHduT3rQ7ob+8ibW4ygnoIYDRvHYgJXjIZAQ=="
+  "publishedAt": "2026-10-30T16:01:19.591Z",
+  "notes": "TV: long 4K films play through smoothly: the storage cache no longer throws away the part about to play, and loads from where the player really is.",
+  "signature": "kfXOH7Murl9O50UMJaNbj6zkW1TBvOWBEL71FFt0fOw/3ZKiTHzhTCWWhkXODkffvtc2IUsn9Kkqlgt+NqhAAw=="
 }
