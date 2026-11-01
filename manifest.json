@@ -1,13 +1,13 @@
 {
   "app": "hearth",
   "channel": "friends",
-  "versionCode": 58,
-  "versionName": "1.1.58",
-  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.58/hearth-friends-1.1.58.tgz",
-  "sha256": "dddf820c56b57f25d0ce89d648b99669f1d5955b8d4173a25c238aa7a18f018f",
-  "size": 12792427,
+  "versionCode": 59,
+  "versionName": "1.1.59",
+  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.59/hearth-friends-1.1.59.tgz",
+  "sha256": "f2c77917d0dbe1be53c9a304a25e04e2fab3e6f4403e7f70159ce15a4352cbc1",
+  "size": 12794286,
   "lockHash": "1268810c0105d9ba0693021cf8e3da80de4ae5ebc357c1eecbf3ddfb0c847ec1",
-  "publishedAt": "2026-10-30T19:10:49.119Z",
-  "notes": "Security: the public address no longer counts as the home network (a reverse proxy that doesn't pass on visitors' addresses can't make internet visitors look local).",
-  "signature": "upjEMVG4oGTSSdMepKYiv1iuVjTajCgXFqwQPQKFmK1UtjKfuNH6uRyTncMnRvZrfddnTyx6OTFr6xytNSolCQ=="
+  "publishedAt": "2026-11-01T03:33:11.650Z",
+  "notes": "Holidays: the first holiday row starts with the holiday's own episodes of your shows (Favorites, shows on the server, and shows you've watched more than a season of); they play straight away.",
+  "signature": "ZoMj467fgsCXzq2GxRz3MWJQ/CDWKTwEG9BIvSwnr6toWBOSs6D8RqFMW5l9eU8qkz8y67e39/xV7rhBPprfCA=="
 }
