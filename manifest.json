@@ -1,13 +1,13 @@
 {
   "app": "hearth",
   "channel": "friends",
-  "versionCode": 63,
-  "versionName": "1.1.63",
-  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.63/hearth-friends-1.1.63.tgz",
-  "sha256": "7543a964d198b480ef01945a68fa85beb4d9caac18e1076fbed2d956aeee382c",
-  "size": 12796160,
+  "versionCode": 64,
+  "versionName": "1.1.64",
+  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.64/hearth-friends-1.1.64.tgz",
+  "sha256": "291eb6f1a8a06433d57835d0e0296fcb6ebbe48531c4e2fea0a3ca43e2e38a0d",
+  "size": 12799719,
   "lockHash": "1268810c0105d9ba0693021cf8e3da80de4ae5ebc357c1eecbf3ddfb0c847ec1",
-  "publishedAt": "2026-11-02T23:23:01.892Z",
-  "notes": "Anime packs with two episodes per file (Title - 05-06) now play the right file instead of failing.",
-  "signature": "TYgMX8ZNB5qV3ns3QkHUqZRwKhijer9nUprF153YnEhd1rtfhHkd6WWGzKCRRBAJjEqqfJvnd2VArFtkvpfPBg=="
+  "publishedAt": "2026-11-02T23:46:37.132Z",
+  "notes": "Fetch on Real-Debrid: when a title's sources aren't cached on your debrid service, the player offers to fetch one there (on its servers, not your connection), shows progress and plays when it's ready. Titles nobody is sharing now say so.",
+  "signature": "e+xOah3dR0Ttz9iXnkiDdoiH4GvR7cSj/xMQp2Cpz/ZeLftJI6KFPHd9ia35/qXPBhIkSDVSyzuWnxrnJ54+BQ=="
 }
