@@ -1,13 +1,13 @@
 {
   "app": "hearth",
   "channel": "friends",
-  "versionCode": 60,
-  "versionName": "1.1.60",
-  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.60/hearth-friends-1.1.60.tgz",
-  "sha256": "f35b4f5485e0fca1829d557c0dc085decf4bf6581de251a181539002a5178a2c",
-  "size": 12794733,
+  "versionCode": 61,
+  "versionName": "1.1.61",
+  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.61/hearth-friends-1.1.61.tgz",
+  "sha256": "c041cde67353b302ed3e3e675df7a9944c31a8770b38364f903b6436f6df65c4",
+  "size": 12796237,
   "lockHash": "1268810c0105d9ba0693021cf8e3da80de4ae5ebc357c1eecbf3ddfb0c847ec1",
-  "publishedAt": "2026-11-02T22:50:30.430Z",
-  "notes": "18+ titles find their sources again: Hearth now asks each Prowlarr indexer on its own (a slow one no longer times out the whole search), shows sources as they arrive, and matches 18+ films by their exact volume. Family titles get Prowlarr results again too.",
-  "signature": "NyMmOlpC4JnAUlV3YI8QTleFhyNkN/Eed6Edfe548JMyODPLcXNsOoxQzGeZj1upgt5M7SOABLJoq3D6QGviAw=="
+  "publishedAt": "2026-11-02T23:10:27.208Z",
+  "notes": "18+: anyone can hide a title from their own 18+ (right-click / long-press > Hide this title; listed under Hidden titles to bring back). Built-in 18+ filter trimmed to a small locked core of words that only mean minors or animals. Link-only sources show up sooner; studio shelves no longer include a studio's mainstream comedies.",
+  "signature": "FS5+jcZ8tMjDNbsXpFBFiuAxspVb3NYPCg+zJEyetJevZ+gJkXWJHqJadSgGR4XysPm8fN0z6AX68mG82vyeDQ=="
 }
