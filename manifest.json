@@ -1,13 +1,13 @@
 {
   "app": "hearth",
   "channel": "friends",
-  "versionCode": 62,
-  "versionName": "1.1.62",
-  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.62/hearth-friends-1.1.62.tgz",
-  "sha256": "92eca84aa6ba3ec4e429b86dab5b7a5e752849dddb0928840887cf34b26ced17",
-  "size": 12795693,
+  "versionCode": 63,
+  "versionName": "1.1.63",
+  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.63/hearth-friends-1.1.63.tgz",
+  "sha256": "7543a964d198b480ef01945a68fa85beb4d9caac18e1076fbed2d956aeee382c",
+  "size": 12796160,
   "lockHash": "1268810c0105d9ba0693021cf8e3da80de4ae5ebc357c1eecbf3ddfb0c847ec1",
-  "publishedAt": "2026-11-02T23:17:12.490Z",
-  "notes": "18+: teen studios (18+ performers) are listed with the others: Team Skeet, Nubiles, Teen Fidelity, Teen Mega World.",
-  "signature": "cnKcJIQm9wlotq7K3k7aoS7Oar2KR7YELsiiEuUj8M/CLYvQzBhNqVbkDnVaCyN8tW4zYm1WE2jN1RVvO/lhBA=="
+  "publishedAt": "2026-11-02T23:23:01.892Z",
+  "notes": "Anime packs with two episodes per file (Title - 05-06) now play the right file instead of failing.",
+  "signature": "TYgMX8ZNB5qV3ns3QkHUqZRwKhijer9nUprF153YnEhd1rtfhHkd6WWGzKCRRBAJjEqqfJvnd2VArFtkvpfPBg=="
 }
