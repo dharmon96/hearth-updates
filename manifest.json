@@ -1,13 +1,13 @@
 {
   "app": "hearth",
   "channel": "friends",
-  "versionCode": 64,
-  "versionName": "1.1.64",
-  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.64/hearth-friends-1.1.64.tgz",
-  "sha256": "291eb6f1a8a06433d57835d0e0296fcb6ebbe48531c4e2fea0a3ca43e2e38a0d",
-  "size": 12799719,
+  "versionCode": 65,
+  "versionName": "1.1.65",
+  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.65/hearth-friends-1.1.65.tgz",
+  "sha256": "762395c3f614cf9084b8e6a9c3879e0ba3f9f74c853011981457144016aa86f3",
+  "size": 12803681,
   "lockHash": "1268810c0105d9ba0693021cf8e3da80de4ae5ebc357c1eecbf3ddfb0c847ec1",
-  "publishedAt": "2026-11-02T23:46:37.132Z",
-  "notes": "Fetch on Real-Debrid: when a title's sources aren't cached on your debrid service, the player offers to fetch one there (on its servers, not your connection), shows progress and plays when it's ready. Titles nobody is sharing now say so.",
-  "signature": "e+xOah3dR0Ttz9iXnkiDdoiH4GvR7cSj/xMQp2Cpz/ZeLftJI6KFPHd9ia35/qXPBhIkSDVSyzuWnxrnJ54+BQ=="
+  "publishedAt": "2026-11-04T06:16:32.285Z",
+  "notes": "Old AVI films start quickly and can jump. Refused connections to Real-Debrid are retried. Picking an uncached source offers Fetch on Real-Debrid. The phone app connects by web address, with an Away-from-home address setting. Stutters can now be reported with details.",
+  "signature": "CnfxmnmtszBv1N1L0hmjxVhs7vK4F4WhI8fXFpAXMvzWptKK97NbYxcNj2+ean53Mr1XUXmwJ88jUMxqSS7iAg=="
 }
