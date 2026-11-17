@@ -1,13 +1,13 @@
 {
   "app": "hearth",
   "channel": "friends",
-  "versionCode": 66,
-  "versionName": "1.1.66",
-  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.66/hearth-friends-1.1.66.tgz",
-  "sha256": "f73cec11966c0c8e4dd09f29686f5944f524a3a05686eeaaa410bdaf94ccc528",
-  "size": 12804386,
+  "versionCode": 67,
+  "versionName": "1.1.67",
+  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.67/hearth-friends-1.1.67.tgz",
+  "sha256": "3cd73d3c9eba6cc08d77a7c23843a0975da46997266958b021ad255d239410fe",
+  "size": 12804943,
   "lockHash": "1268810c0105d9ba0693021cf8e3da80de4ae5ebc357c1eecbf3ddfb0c847ec1",
-  "publishedAt": "2026-11-17T21:08:57.346Z",
-  "notes": "Shows start in a few seconds instead of up to a minute. Fixes playback freezing partway through a film (a bug in newer Node versions), Fire TV setup by web address, and episodes that played the wrong half.",
-  "signature": "BUuMea40UemXwtlGoEKf0VSBIsddSCHSzd2s9/MQxjTiaqdI1aIgiFMz3maqmk3fSN750+/qabyaiYjQZUTzCQ=="
+  "publishedAt": "2026-11-17T22:48:23.227Z",
+  "notes": "Downloads no longer freeze partway (the same Node.js bug fixed for playback in 1.1.66), and a saved episode that turns out to be the wrong length is fetched again from another source.",
+  "signature": "JFLr7GGcNnTdDqDIPImb91T9Ugqjx3EfzwmjH20tHilMN2/heyw2Ll6IKedM5GYZPh2VJCdjulV5DFMNKitzAg=="
 }
