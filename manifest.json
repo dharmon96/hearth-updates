@@ -1,13 +1,13 @@
 {
   "app": "hearth",
   "channel": "friends",
-  "versionCode": 65,
-  "versionName": "1.1.65",
-  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.65/hearth-friends-1.1.65.tgz",
-  "sha256": "762395c3f614cf9084b8e6a9c3879e0ba3f9f74c853011981457144016aa86f3",
-  "size": 12803681,
+  "versionCode": 66,
+  "versionName": "1.1.66",
+  "url": "https://github.com/dharmon96/hearth-updates/releases/download/v1.1.66/hearth-friends-1.1.66.tgz",
+  "sha256": "f73cec11966c0c8e4dd09f29686f5944f524a3a05686eeaaa410bdaf94ccc528",
+  "size": 12804386,
   "lockHash": "1268810c0105d9ba0693021cf8e3da80de4ae5ebc357c1eecbf3ddfb0c847ec1",
-  "publishedAt": "2026-11-04T06:16:32.285Z",
-  "notes": "Old AVI films start quickly and can jump. Refused connections to Real-Debrid are retried. Picking an uncached source offers Fetch on Real-Debrid. The phone app connects by web address, with an Away-from-home address setting. Stutters can now be reported with details.",
-  "signature": "CnfxmnmtszBv1N1L0hmjxVhs7vK4F4WhI8fXFpAXMvzWptKK97NbYxcNj2+ean53Mr1XUXmwJ88jUMxqSS7iAg=="
+  "publishedAt": "2026-11-17T21:08:57.346Z",
+  "notes": "Shows start in a few seconds instead of up to a minute. Fixes playback freezing partway through a film (a bug in newer Node versions), Fire TV setup by web address, and episodes that played the wrong half.",
+  "signature": "BUuMea40UemXwtlGoEKf0VSBIsddSCHSzd2s9/MQxjTiaqdI1aIgiFMz3maqmk3fSN750+/qabyaiYjQZUTzCQ=="
 }
